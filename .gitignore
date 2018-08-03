@@ -19,3 +19,4 @@
 
 #service
 ./FaceRService/venv/
+./FaceRService/.idea/
