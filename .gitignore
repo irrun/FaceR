@@ -4,7 +4,8 @@
 
 # web
 ./FaceRWeb/.DS_Store
-./FaceRWeb/node_modules/
+./FaceRWeb/node_modules/*
+node_modules/*
 ./FaceRWeb/npm-debug.log*
 ./FaceRWeb/yarn-debug.log*
 ./FaceRWeb/yarn-error.log*
@@ -18,5 +19,6 @@
 ./FaceRWeb/*.sln
 
 #service
-./FaceRService/venv/
+./FaceRService/venv
+venv/*
 ./FaceRService/.idea/
